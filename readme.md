@@ -6,7 +6,7 @@ Este repositorio contiene un dataset curado de imágenes de arquitectura peruana
 La estructura actual del directorio es la siguiente:
 
 ```
-Z:\dataset
+\dataset
 │
 ├── inca/
 │   ├── muro inca 1.jpg

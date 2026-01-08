@@ -41,9 +41,9 @@ Este dataset está pensado para entrenamientos de modelos generativos (ej. LoRA,
 Puedes referenciar las carpetas directamente en tus scripts:
 
 ```bash
---train_data_dir="Z:/dataset/inca"
---train_data_dir="Z:/dataset/sillar"
---train_data_dir="Z:/dataset/lima"
+--train_data_dir="/dataset/inca"
+--train_data_dir="/dataset/sillar"
+--train_data_dir="/dataset/lima"
 ```
 
 Si deseas entrenar con todas las categorías juntas:
